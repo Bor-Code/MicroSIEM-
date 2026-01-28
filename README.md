@@ -25,8 +25,7 @@ Bu komut, MicroSIEM'in çalışması için gerekli tüm Python kütüphanelerini
 4. Sistemi Başlatın
 Kurulum tamamlandıktan sonra programı başlatmak için:
 bashpython microsiem.py
-Program başladığında konsol üzerinden size bir web adresi verecek (genellikle http://localhost:5000). Bu adresi tarayıcınızda açarak dashboard'a erişebilirsiniz.
-
+Program başladığında konsol üzerinden size bir web adresi verecek (genellikle http://localhost:5000). Bu adresi tarayıcınızda açarak dashboard'a "admin"-"root" yetkileri ile erişebilirsiniz.
 Keyifli kullanımlar! [Bor-Code]
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -58,6 +57,6 @@ This command automatically installs all the Python libraries required for MicroS
 4. Start the System
 Once the installation is complete, start the program with:
 bashpython microsiem.py
-When the program starts, it will provide you with a web address via the console (usually http://localhost:5000). You can access the dashboard by opening this address in your browser.
+When the program starts, it will provide you with a web address via the console (usually http://localhost:5000). You can access the dashboard with “admin”-“root” privileges by opening this address in your browser.
 
 Enjoy! [Bor-Code]
